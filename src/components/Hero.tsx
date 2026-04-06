@@ -71,7 +71,7 @@ export default function Hero() {
               <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-[#C08552] to-[#8C5A3C] p-2">
                 <div className="w-full h-full rounded-full bg-[#FFF8F0] flex items-center justify-center overflow-hidden">
                  <img
-                    src="public/assets/profile.png"  
+                    src="images/profile.png"  
                     alt="Profile"
                     className="w-full h-full object-cover rounded-full"
                   />
