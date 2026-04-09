@@ -4,12 +4,6 @@ A modern and responsive personal portfolio website built using **React**, **Vite
 
 ---
 
-## 🚀 Live Demo
-
-*(Add your deployed link here)*
-
----
-
 ## 🛠️ Tech Stack
 
 * ⚛️ React
