@@ -10,7 +10,7 @@ export default function About() {
     {
       icon: Briefcase,
       title: 'Experience',
-      description: '4+ years of experience building web applications and digital products.',
+      description: 'Built multiple real-world projects using React and deployed on Vercel',
     },
     {
       icon: Target,
@@ -60,7 +60,7 @@ export default function About() {
               <ul className="space-y-4">
                 <li className="flex items-start">
                   <span className="mr-3 mt-1">✓</span>
-                  <span>4+ years of Development experience</span>
+                  <span>Skilled in React, JavaScript, and modern web technologies</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-3 mt-1">✓</span>
